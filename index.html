@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Projeto Café com Amor</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="caixa-video">
+      <video src="./videos/video_cafe.mp4" loop muted autoplay></video>
+
+      <div class="mascara"></div>
+    </div>
+
+    <header>
+      <section>
+        <a href="###">
+          <img src="./img/Starbucks_Corporation_Logo_png.png" alt="logo-cafe" />
+        </a>
+
+        <nav>
+          <a href="#">Home</a>
+          <a href="#">Sobre</a>
+          <a href="#" onclick="mostrarModal()">Endereço</a>
+        </nav>
+      </section>
+    </header>
+
+    <section class="caixa-principal">
+      <div>
+        <h3>Café, codar e Amor</h3>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat modi
+          sint, deserunt alias repellendus quo facere quam id numquam error
+          incidunt deleniti enim esse illo, vel omnis molestiae officiis? Fugit.
+        </p>
+        <a class="botão-link">PEÇA O SEU AGORA! </a>
+      </div>
+    </section>
+
+    <section class="caixa-sobre">
+      <h2 class="titulo"> <span>Sobre</span> Nós</h2>
+      <div class="sobre-container">
+        
+        <div class="sobre-imagem">
+          <img src="./img/xicara_coração.jpg" alt="Xicara de coração" />
+        </div>
+
+        <div class="sobre-texto">
+          <h3>Café, sinônimo de foco total. Ótimo companheiro para Codar</h3>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
+            molestias id officiis doloremque quibusdam ipsam nemo, architecto
+            iste reprehenderit in quo commodi deserunt quaerat provident dolore
+            maiores, laborum dolorem dolor?
+          </p>
+          <p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit rem
+            iure non vitae delectus libero deleniti fugit voluptatibus nam,
+            possimus neque laboriosam? Libero, tempora. Voluptates atque
+            reprehenderit ullam fuga vel!
+          </p>
+          <a class="botão-link-inferior">Saiba Mais</a>
+        </div>
+      </div>
+    </section>
+
+    <div class="modal">
+      <h3 class="titulo"><span>Nosso</span> Endereço</h3>
+
+      <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2929109.56802922!2d-54.09321122589449!3d-23.18846185953436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1scafelandia%20prefeitura!5e1!3m2!1spt-BR!2sbr!4v1781365860963!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      " frameborder="0"></iframe>
+    </div>
+
+    <div onclick="esconderModal()" class="mascara-modal"></div>
+
+    <script src="./script.js"></script>
+
+  </body>
+
+</html>
