@@ -72,8 +72,6 @@ Este projeto foi desenvolvido para praticar conceitos fundamentais do desenvolvi
 
 ## 📌 Status do Projeto
 
-✅ Concluído
-
 ---
 
 Desenvolvido durante meus estudos de Desenvolvimento Front-End 🚀
