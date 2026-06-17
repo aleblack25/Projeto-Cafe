@@ -1,65 +1,81 @@
-# ☕ Projeto Cafeteria
+# ☕ Café com Amor
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-Este é um projeto de uma página web para uma cafeteria, desenvolvido com HTML, CSS e JavaScript. O site possui um design moderno, vídeo de fundo, imagens dos produtos e interação com o usuário.
+Uma landing page moderna para cafeteria, desenvolvida com HTML, CSS e JavaScript. O projeto apresenta uma experiência visual envolvente com vídeo de fundo, design responsivo e interface intuitiva.
 
 ## 🚀 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
+* Git
+* GitHub
 
 ## ✨ Funcionalidades
 
-- Vídeo de fundo na página inicial
-- Layout responsivo
-- Menu de navegação
-- Imagens ilustrativas da cafeteria
-- Modal de contato
-- Efeitos visuais com CSS
-- Interface moderna e intuitiva
+* Vídeo de fundo na página inicial
+* Layout responsivo para diferentes dispositivos
+* Menu de navegação
+* Seção "Sobre Nós"
+* Modal de contato
+* Efeitos visuais e animações com CSS
+* Interface moderna e intuitiva
+
+## 🌐 Projeto Online
+
+🔗 Acesse o projeto:
+
+https://aleblack25.github.io/Projeto_Cafe-/
 
 ## 📸 Preview
 
-Adicione aqui uma imagem ou GIF do projeto.
-
-```html
-<img src="./img/preview.png" alt="Preview do Projeto">
-```
+![Preview do Projeto](./img/preview.png)
 
 ## 📂 Estrutura do Projeto
 
-```bash
-📦 Projeto-Cafeteria
-├── 📁 img
-├── 📁 videos
-├── 📄 index.html
-├── 📄 styles.css
-├── 📄 script.js
-└── 📄 README.md
+```text
+Projeto_Cafe/
+├── img/
+├── videos/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
 ```
 
 ## 🎯 Objetivo
 
-Este projeto foi desenvolvido para praticar conceitos de Front-End, incluindo:
+Este projeto foi desenvolvido para praticar conceitos fundamentais do desenvolvimento Front-End, incluindo:
 
-- Estruturação com HTML
-- Estilização com CSS
-- Manipulação do DOM com JavaScript
-- Responsividade
-- Utilização de vídeos e imagens em páginas web
+* Estruturação semântica com HTML
+* Estilização avançada com CSS
+* Manipulação do DOM com JavaScript
+* Responsividade
+* Utilização de vídeos e imagens em páginas web
+
+## 🛠️ Habilidades Desenvolvidas
+
+* Desenvolvimento de Landing Pages
+* Organização de projetos Front-End
+* Responsividade
+* Manipulação do DOM
+* Criação de modais
+* Efeitos visuais com CSS
+* Versionamento com Git e GitHub
 
 ## 👨‍💻 Autor
 
-Alexandre Costa
+**Alexandre Costa**
 
-GitHub: https://github.com/aleblack25
+📧 [alexandreacostacosta@gmail.com](mailto:alexandreacostacosta@gmail.com)
 
-LinkedIn: linkedin.com/in/alexandre-costa-dev
+🐙 GitHub: https://github.com/aleblack25
+
+## 📌 Status do Projeto
+
+✅ Concluído
 
 ---
+
+Desenvolvido durante meus estudos de Desenvolvimento Front-End 🚀
 
 Desenvolvido durante os estudos de Front-End 🚀
