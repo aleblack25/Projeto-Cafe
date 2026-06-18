@@ -22,9 +22,7 @@ Uma landing page moderna para cafeteria, desenvolvida com HTML, CSS e JavaScript
 
 ## 🌐 Projeto Online
 
-🔗 Acesse o projeto:
-
-https://aleblack25.github.io/Projeto_Cafe-/
+🔗 [Clique aqui para acessar o projeto](https://aleblack25.github.io/Projeto-Cafe/)
 
 
 
